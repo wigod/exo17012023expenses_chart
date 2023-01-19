@@ -1,0 +1,62 @@
+*{
+      margin: 0px;
+      padding: 0px;
+
+    }
+
+
+body{
+    font-size: 18px;
+    font-family: 
+    background-color: 'DM Sans';
+    
+}
+
+#box_jours{
+    width: 650px;
+    display: flex;
+    justify-content: space-around;
+}
+.mon{
+    width: 40px;
+    height: 160px;
+    background-color: hsl(10, 79%, 65%)
+}
+.thue{
+    width: 40px;
+    height: 160px;
+    background-color: hsl(10, 79%, 65%)
+}
+.wed{
+    width: 40px;
+    height: 160px;
+    background-color: hsl(10, 79%, 65%)
+}
+.thu{
+    width: 40px;
+    height: 160px;
+    background-color: hsl(10, 79%, 65%)
+}
+.fri{
+    width: 40px;
+    height: 160px;
+    background-color: hsl(10, 79%, 65%)
+}
+.sat{
+    width: 40px;
+    height: 160px;
+    background-color: hsl(10, 79%, 65%)
+}
+.sun{
+    width: 40px;
+    height: 160px;
+    background-color: hsl(10, 79%, 65%)
+}
+
+
+
+    /*
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+    */
+
