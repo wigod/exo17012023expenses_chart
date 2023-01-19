@@ -43,91 +43,101 @@ body{
 
 #box_jours{
     width: 400px;
+    height: 160px;
     display: flex;
+    align-items: flex-end;
     justify-content: space-around;
     margin-top: 15px;
 }
 .mon{
     width: 40px;
-    height: 50px;
+    height: 35%;
+    border-radius: 5px;
     background-color: hsl(10, 79%, 65%)
 }
 .thue{
     width: 40px;
-    height: 85px;
+    height: 65%;
+    border-radius: 5px;
     background-color: hsl(10, 79%, 65%)
 }
 .wed{
     width: 40px;
-    height: 160px;
+    height: 95%;
+    border-radius: 5px;
     background-color: hsl(224, 91%, 57%)
 }
 .thu{
     width: 40px;
-    height: 80px;
+    height: 65%;
+    border-radius: 5px;
     background-color: hsl(10, 79%, 65%)
 }
 .fri{
     width: 40px;
-    height: 70px;
+    height: 55%;
+    border-radius: 5px;
     background-color: hsl(10, 79%, 65%)
 }
 .sat{
     width: 40px;
-    height: 120px;
+    height: 80%;
+    border-radius: 5px;
     background-color: hsl(10, 79%, 65%)
 }
 .sun{
     width: 40px;
-    height: 55px;
+    height: 60%;
+    border-radius: 5px;
     background-color: hsl(10, 79%, 65%)
 }
 
 
- /* A REVOIR 
-#box_jours{
-    width: 400px;
+#text_box_jours{
+    width: 400px;    
     display: flex;
+    align-items: flex-end;
     justify-content: space-around;
     margin-top: 15px;
 }
-.mon{
+.text_mon{
     width: 40px;
-    height: 50px;
-    background-color: hsl(10, 79%, 65%)
+    
 }
-.thue{
+.text_thue{
     width: 40px;
-    height: 85px;
-    background-color: hsl(10, 79%, 65%)
+    
 }
-.wed{
+.text_wed{
     width: 40px;
-    height: 160px;
-    background-color: hsl(224, 91%, 57%)
+   
 }
-.thu{
+.text_thu{
     width: 40px;
-    height: 80px;
-    background-color: hsl(10, 79%, 65%)
+    
 }
-.fri{
+.text_fri{
     width: 40px;
-    height: 70px;
-    background-color: hsl(10, 79%, 65%)
+    
 }
-.sat{
+.text_sat{
     width: 40px;
-    height: 120px;
-    background-color: hsl(10, 79%, 65%)
+   
 }
-.sun{
+.text_sun{
     width: 40px;
-    height: 55px;
-    background-color: hsl(10, 79%, 65%)
+    
 }
-*/
 
+.total_text{
+
+}
+.text_gauche{
+
+}
+.text_droite{
+    
+}
 
 
     /*
