@@ -24,10 +24,19 @@ body{
 #balance{
     width: 400px;
     height: 70px;
+    display: flex;
+    justify-content: space-between;
     background-color: hsl(10, 79%, 65%);
     border-radius: 10px;
     margin-bottom: 15px;
     
+}
+
+.text_balance{
+
+}
+.balance_image img{
+
 }
 
 #spending{
@@ -140,7 +149,7 @@ body{
 }
 .text_droite{
     padding: 1rem;
-    margin-right: 5px;
+    
 }
 
 
