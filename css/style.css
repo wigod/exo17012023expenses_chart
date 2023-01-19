@@ -130,13 +130,17 @@ body{
 }
 
 .total_text{
-
+    width: 400px;    
+    display: flex;    
+    justify-content: space-between;
+    margin-top: 15px;    
 }
 .text_gauche{
-
+    padding: 1rem;
 }
 .text_droite{
-    
+    padding: 1rem;
+    margin-right: 5px;
 }
 
 
